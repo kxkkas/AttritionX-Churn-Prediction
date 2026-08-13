@@ -1,0 +1,6 @@
+CustomerID,Gender,Age,Income,Churn
+1,Male,34,50000,0
+2,Female,29,60000,1
+3,Male,45,52000,0
+4,Female,32,58000,1
+5,Male,41,61000,0
